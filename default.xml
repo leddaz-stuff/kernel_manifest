@@ -109,4 +109,5 @@
   <project path="prebuilts/bazel/linux-x86_64" name="platform/prebuilts/bazel/linux-x86_64" clone-depth="1" groups="partner"/>
   <project path="prebuilts/jdk/jdk11" name="platform/prebuilts/jdk/jdk11" clone-depth="1" groups="partner" />
   <project path="device/google/raviole-kernel" name="device_google_raviole-kernel" remote="hentai" />
+  <project path="boot-artifacts" name="prebuilts_boot-artifacts" remote="leddaz-stuff" /> 
 </manifest>
